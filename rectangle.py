@@ -1,5 +1,5 @@
 def perimeter_rectangle(length,breadth):
-    p=3*(length+breadth)
+    p=2*(length+breadth)
     return p
    
 def area_rectangle(length,breadth):
